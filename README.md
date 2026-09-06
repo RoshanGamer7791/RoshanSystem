@@ -49,7 +49,7 @@ py main.py
 
 On first launch you create a local account (username + password). Subsequent launches show the login form.
 
-Project layout (relevant)
+### Project layout (relevant)
 ```
 Roshan System - Python Version/
   main.py                 # Desktop shell, app loader, taskbar, Start menu
